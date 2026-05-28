@@ -1,0 +1,32 @@
+aid: covid-19-india
+name: Covid-19 India
+description: "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India"
+url: https://data.covid19india.org/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Health"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Health
+  - Public APIs
+apis:
+  - name: Covid-19 India
+    description: "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India"
+    humanURL: https://data.covid19india.org/
+    baseURL: https://data.covid19india.org/
+    tags:
+      - Health
+    properties:
+      - type: Documentation
+        url: https://data.covid19india.org/
+common:
+  - type: Website
+    url: https://data.covid19india.org/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
