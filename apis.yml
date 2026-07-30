@@ -1,4 +1,16 @@
 aid: covid-19-india
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/covid-19-india.png
 name: Covid-19 India
 description: "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India"
 url: https://data.covid19india.org/
