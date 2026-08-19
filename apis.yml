@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/covid-19-i
 name: Covid-19 India
 description: "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India"
 url: https://data.covid19india.org/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
