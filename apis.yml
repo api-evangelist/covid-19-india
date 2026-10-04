@@ -39,7 +39,6 @@ apis:
   - name: Covid-19 India
     description: "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India"
     humanURL: https://data.covid19india.org/
-    baseURL: https://data.covid19india.org/
     tags:
       - Health
     properties:
