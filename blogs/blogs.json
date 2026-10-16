@@ -1,0 +1,14 @@
+{
+  "repo": "covid-19-india",
+  "feeds": [
+    {
+      "source": "https://blog.covid19india.org/feed/",
+      "feed_url": "https://blog.covid19india.org/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
